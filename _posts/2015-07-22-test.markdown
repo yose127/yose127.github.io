@@ -3,5 +3,6 @@ published: true
 title: test
 layout: post
 tags: [Coding]
+categories: [Coding]
 ---
 test
