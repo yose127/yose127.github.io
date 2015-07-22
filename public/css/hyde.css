@@ -86,7 +86,7 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
-  list-style: block;
+  list-style: none;
 }
 .sidebar-nav-item {
   display: block;
